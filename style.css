@@ -1,0 +1,55 @@
+.navbar-nav{
+  padding-top: 1vmin;
+}
+.navbar-brand{
+  height: 100%;
+}
+.navbar-brand img{
+width: 20vmin;
+}
+#bs-example-navbar-collapse-1 a{
+color: white;
+padding: 2vmin 2vmin;
+font-size: 15px;
+}
+#bs-example-navbar-collapse-1 a:hover{
+color: white;
+background: grey;
+border-radius: 5px;
+}
+#bs-example-navbar-collapse-1 a:focus{
+background-color: black;
+border-radius: 5px;
+}
+header{
+overflow: hidden;
+background-image: url("img/image1.jpg");
+background-size: cover;
+filter: brightness(80%);
+font-family: "Andalemo";
+}
+header .container{
+padding-top: 0;
+padding: inherit;
+color: white;
+width: 60%;
+}
+.container .jumbotron{
+padding-left: 0;
+padding-right: 0;
+background-color: inherit;
+}
+
+.container .jumbotron h1,p{
+  padding-top: 3vw;
+}
+.container .jumbotron .btn{
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+  padding: 1.5vmin 4vmin 1.5vmin 4vmin;
+  font-size: 14px;
+  background-color: #F57E37;
+}
+.icon-bar{
+  border: 2px solid white;
+}
