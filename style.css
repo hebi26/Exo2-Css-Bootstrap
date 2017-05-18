@@ -55,8 +55,6 @@ font-family: "Helvetic";
   padding: 0;
 }
 .container1{
-  padding: inherit;
-  width: 60%;
   margin: 5vw 20% 5vw 20%;
   font-family: "Helvetic";
 }
@@ -97,8 +95,6 @@ h2{
 }
 .container2{
   margin-top: 2vw;
-  width: 60%;
-  margin: auto;
   font-family: "Helvetic";
 }
 .container2 h2{
